@@ -1,0 +1,4 @@
+## LINKEDIN INFO
+LINKEDIN_API_KEY = ''
+LINKEDIN_API_SECRET = ''
+LINKEDIN_REDIRECT_URI = 'http://127.0.0.1:8000/linkedin_authorize/callback'

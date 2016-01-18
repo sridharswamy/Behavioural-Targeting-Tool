@@ -1,0 +1,4 @@
+*.pyc
+credentials.dat
+statistic.txt
+.DS_Store
